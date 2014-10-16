@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[anw:home|Door43 (anw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-anw|d43-anw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-anw/archive/master.zip|d43-anw.zip]]
+
+**Recent Changes**
+{{changes>ns = anw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/anw|Ethnologue data]]
+
